@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1499406647 source:c:\users\eduardo\desktop\code\contarcaracter\main.c
+	<stdio.h>
+	<stdlib.h>
+

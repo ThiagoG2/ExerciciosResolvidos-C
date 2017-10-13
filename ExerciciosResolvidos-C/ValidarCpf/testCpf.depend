@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1500529277 source:c:\users\eduardo\desktop\code\testcpf\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1500529277 source:c:\users\eduardo\desktop\arquivos pc\code\testcpf\main.c
+	<stdio.h>
+	<stdlib.h>
+
